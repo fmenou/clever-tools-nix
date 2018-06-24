@@ -1,4 +1,8 @@
 ---
+os:
+ - linux
+ - osx
+
 language: nix
 
 script:
